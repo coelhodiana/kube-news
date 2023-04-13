@@ -13,3 +13,9 @@ DB_USERNAME => Usuário do banco de dados.
 DB_PASSWORD => Senha do usuário do banco de dados.
 
 DB_HOST => Endereço do banco de dados.
+
+### Aplicação em execução no cluster
+![Aplicação em execução no cluster](https://raw.githubusercontent.com/coelhodiana/kube-news/main/img/app.png)
+
+### Elementos provisionados no deployment
+![k8s](https://raw.githubusercontent.com/coelhodiana/kube-news/main/img/k8s.png)
